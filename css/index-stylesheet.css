@@ -1,0 +1,35 @@
+null .container-fluid {
+    font-family: "Arial Black", Gadget, sans-serif;
+    border-style: solid solid solid solid;
+    border-width: 4px 4px 4px 4px;
+}
+
+.nav-bar {
+    border-width: 2px 2px 2px 2px !important;
+    border-color: #222222 !important;
+}
+
+html>body {
+    border-width: 3px 3px 3px 3px;
+    border-style: none none none none;
+}
+
+.navbar>.container>.responsive-logo>.navbar-brand {
+    font-size: 30px;
+}
+
+.container {
+    border-width: 1px 1px 1px 1px;
+}
+
+.navbar {
+    border-style: none none none none;
+    border-width: 0px 0px 0px 0px;
+}
+
+.tool {
+    border-width: 1px 1px 1px 1px;
+    border-style: solid solid solid solid;
+    width: 100%;
+    margin-top: 10px;
+}
