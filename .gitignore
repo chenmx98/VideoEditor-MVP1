@@ -1,0 +1,4 @@
+# Add all local dependicies not needed for the repo
+node_modules/
+package*
+
