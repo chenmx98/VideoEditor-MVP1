@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 __pycache__/*
 venv/*
 clips/*
 *.mp3
 *.mp4
+=======
+# Add all local dependicies not needed for the repo
+node_modules/
+package*
+
+>>>>>>> 6e11675bfac9ccb4845824676563ac25e2b748ae
