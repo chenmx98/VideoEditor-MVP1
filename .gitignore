@@ -1,0 +1,5 @@
+__pycache__/*
+venv/*
+clips/*
+*.mp3
+*.mp4
